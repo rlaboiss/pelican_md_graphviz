@@ -1,5 +1,11 @@
 # Graphviz plugin for Pelican
 
+> **Note**
+> The code in this repository has been moved into the [graphviz][] repository, which is maintained under the auspices of the [Pelican-plugins]() organization. The present repository is archived and preserved here for historical purposes.
+
+[graphviz]: https://github.com/pelican-plugins/graphviz
+[Pelican-plugins]:https://github.com/pelican-plugins
+
 
 ## Description
 
